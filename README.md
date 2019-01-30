@@ -1,1 +1,1 @@
-# Centerloss2Minst
+# Centerloss2Mnist
